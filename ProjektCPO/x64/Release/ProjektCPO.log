@@ -1,0 +1,6 @@
+﻿  Image.cpp
+  Interface.cpp
+C:\Users\Tomasz Figat\source\repos\ProjektCPO\ProjektCPO\Image.h(2,9): fatal error C1083: Nie można otworzyć pliku dołącz: 'opencv2/opencv.hpp': No such file or directory
+  nowy.cpp
+C:\Users\Tomasz Figat\source\repos\ProjektCPO\ProjektCPO\Image.h(2,9): fatal error C1083: Nie można otworzyć pliku dołącz: 'opencv2/opencv.hpp': No such file or directory
+C:\Users\Tomasz Figat\source\repos\ProjektCPO\ProjektCPO\nowy.cpp(1,9): fatal error C1083: Nie można otworzyć pliku dołącz: 'opencv2/opencv.hpp': No such file or directory
